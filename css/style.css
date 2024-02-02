@@ -125,6 +125,7 @@ body {
 	line-height: 171%;
 	text-decoration: none;
 	font-weight: 600;
+	font-size: 18px;
 }
 .menu__link:hover {
 	text-decoration: underline;
